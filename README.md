@@ -13,7 +13,7 @@ Este proyecto tiene como objetivo principal explorar técnicas de procesamiento 
 
 - **`src/`**: Contiene el código fuente del proyecto.
 - **`data/`**: Almacena los datos utilizados en el análisis.
-- **`notebooks/`**: Cuadernos Jupyter que detallan el proceso de análisis y exploración literaria.
+- **`results/`**: Cuadernos Jupyter que detallan el proceso de análisis y exploración literaria.
 - **`docs/`**: Documentación adicional, si es necesaria.
 
 ## Instrucciones de Uso
